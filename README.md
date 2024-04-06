@@ -1,4 +1,4 @@
-<img src="./img/Mockup.png" height="300" text="center">
+<img src="./img/Mockup.png" height="300" width="300" align="center">
 <h1> Cardápio de Hamburgueria</h1>
 
 Cardápio de hamburgueria desenvolvido para facilitar a forma de fazer pedido.
